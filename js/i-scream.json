@@ -28,6 +28,15 @@
       "type" : "Cookie ice-cream",
       "ingredients" : ["Cookie Dough","Chocolate Chips"],
       "image" : "https://marinonathan11101.github.io/Week11JS/images/ice-cream-xtra1.svg"
+     }, {
+      
+         "name" : "Mint Chip",
+         "calories" : 350,
+         "type" : "ice-cream",
+         "ingredients" : ["Chocolate Chips"],
+         "image" : "https://marinonathan11101.github.io/Week11JS/images/ice-cream-xtra2.svg"
+        
      }]
+
 
 }
