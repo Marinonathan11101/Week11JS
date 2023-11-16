@@ -15,6 +15,13 @@
         "type" : "milkshake-type ice-cream",
         "ingredients" : ["Peach syrup","Mango Chunks","Vanilla Base"],
         "image" : "https://marinonathan11101.github.io/Week11JS/images/peach-mango.svg"
+
+     }, {
+      "name" : "Strawberry Sprinkle",
+      "calories" : 400,
+      "type" : "ice-cream",
+      "ingredients" : ["Strawberry syrup","Vanilla Base"],
+      "image" : "https://marinonathan11101.github.io/Week11JS/images/strawberry-sprinkle.svg"
      }]
 
 }
